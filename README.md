@@ -24,12 +24,14 @@ mention the co-ordinates and the link to be appeared when clicked.
 <html>
     <body>
         <h2>IMAGE MAP</h2>
-        <P>You can click on DG vaishnav college, panchali amman temple, good hope school, kola perumal school and arihant panache
+        <P>You can click on DG vaishnav college, panchali amman temple, good hope school, 
+        kola perumal school and arihant panache
         to read more about the topic:</P>
         <img src="https://res.cloudinary.com/dlseemi4e/image/upload/v1700324082/image_map_zyiqed.png" 
         alt="Workplace" usemap="#workmap" width="1000" height="600">
         <map name="workmap">
-            <area shape="poly" coords="1073,698,1241,841,1367,501,1107,394,980,490"  alt="college" href="DG.html">
+            <area shape="poly" coords="1073,698,1241,841,1367,501,1107,394,980,490"  alt="college"
+            href="DG.html">
             <area shape="rect" coords="980,26,797,104" alt="temple" href="temple.html">
             <area shape="rect" coords="586,363,403,486" alt="school" href="school.html">
             <area shape="circle" coords="961,138,87" alt="building" href="building.html">
