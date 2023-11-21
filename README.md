@@ -135,6 +135,22 @@ mention the co-ordinates and the link to be appeared when clicked.
 ![Alt text](output.png)
 
 
-# Result:
+![Alt text](<Screenshot 2023-11-21 113241.png>)
+
+
+![Alt text](<Screenshot 2023-11-21 113044.png>)
+
+
+![Alt text](<Screenshot 2023-11-21 113318.png>)
+
+
+
+![Alt text](<Screenshot 2023-11-21 113349.png>)
+
+
+
+![Alt text](<Screenshot 2023-11-21 112939.png>)
+
+## Result:
 therefore, when we click a particular point on the image a webpage about the place will appear.
 
