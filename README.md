@@ -129,6 +129,7 @@ mention the co-ordinates and the link to be appeared when clicked.
             The water bodies near this temple are believed to have many medicinal powers and can relieve any kind of body pains.</p>
     </body>
 </head>
+```
 
 # Output:
 ![Alt text](output.png)
