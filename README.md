@@ -132,24 +132,23 @@ mention the co-ordinates and the link to be appeared when clicked.
 ```
 
 # Output:
-![Alt text](output.png)
+![output](https://github.com/Renusri-Naraharasetty/Ex-04-webTech_imagemap/assets/146916363/0771280d-568f-4473-830d-4a13ca2c9f0f)
 
 
-![Alt text](<Screenshot 2023-11-21 113241.png>)
+![Screenshot 2023-11-21 112939](https://github.com/Renusri-Naraharasetty/Ex-04-webTech_imagemap/assets/146916363/1fe7f4e6-ae95-4b17-9b24-3b292ea88e6c)
 
 
-![Alt text](<Screenshot 2023-11-21 113044.png>)
+![Screenshot 2023-11-21 113044](https://github.com/Renusri-Naraharasetty/Ex-04-webTech_imagemap/assets/146916363/33818eba-0441-47dd-845a-92d0a58d612e)
 
 
-![Alt text](<Screenshot 2023-11-21 113318.png>)
+![Screenshot 2023-11-21 113241](https://github.com/Renusri-Naraharasetty/Ex-04-webTech_imagemap/assets/146916363/ccadd4cd-209d-463b-b36c-d4d0305d8028)
 
 
-
-![Alt text](<Screenshot 2023-11-21 113349.png>)
-
+![Screenshot 2023-11-21 113318](https://github.com/Renusri-Naraharasetty/Ex-04-webTech_imagemap/assets/146916363/26a85825-9da4-492c-8b77-3c7296255072)
 
 
-![Alt text](<Screenshot 2023-11-21 112939.png>)
+![Screenshot 2023-11-21 113349](https://github.com/Renusri-Naraharasetty/Ex-04-webTech_imagemap/assets/146916363/fc8a8236-6b8e-4df5-b537-a7a2a72c3f04)
+
 
 ## Result:
 therefore, when we click a particular point on the image a webpage about the place will appear.
